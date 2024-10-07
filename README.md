@@ -1,4 +1,4 @@
-(https://hidekio.github.io/pokemon-completa/)](https://hidekio.github.io/COMPLETAPOKEMON/)
+ https://hidekio.github.io/COMPLETAPOKEMON/
 
 cpf:
 12345678900
